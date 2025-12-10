@@ -22,7 +22,7 @@ export const fackforbund: Fackforbund[] = [
         centralOrg: "SACO",
         members: "~70 000",
         commonJobs: ["Socionom", "personalvetare (HR)", "beteendevetare", "ekonom", "folkhälsovetare", "studie- och yrkesvägledare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Akademikerforbundet-ssr",
+        logoUrl: "/logos/aea.png",
         description: "Sveriges ledande samhällsvetenskapliga förbund.",
         seoText: `# Bli medlem i Akademikerförbundet SSR – Sveriges största fackförbund för socionomer, ekonomer och personalvetare
 
@@ -59,7 +59,7 @@ Tillsammans gör vi skillnad – varje dag. Välkommen till Akademikerförbundet
         centralOrg: "SACO",
         members: "~130 000",
         commonJobs: ["Civilekonom", "jurist", "civilingenjör", "systemvetare", "kommunikatör", "HR-specialist"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Akavia",
+        logoUrl: "/logos/aea.png",
         description: "Fackförbundet för dig som är akademiker.",
         seoText: `# Bli medlem i Akavia – fackförbundet för ekonomer, jurister, IT-akademiker och kommunikatörer
 
@@ -93,7 +93,7 @@ Akademikernas a-kassa – specialiserad på akademiker i privat och offentlig se
         centralOrg: "TCO",
         members: "~700 000",
         commonJobs: ["Kontorstjänsteman", "administratör", "IT-tekniker", "ekonom", "marknadskoordinator", "projektledare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Unionen",
+        logoUrl: "/logos/unionen.png",
         description: "Sveriges största fackförbund på den privata arbetsmarknaden.",
         seoText: `# Bli medlem i Unionen – Sveriges största fack på privata sidan
 
@@ -116,7 +116,7 @@ Unionen organiserar 700 000 tjänstemän i privat sektor – administratörer, I
         centralOrg: "LO",
         members: "~500 000",
         commonJobs: ["Undersköterska", "vårdbiträde", "barnskötare", "personlig assistent", "busschaufför"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Kommunal",
+        logoUrl: "/logos/kommunal.png",
         description: "Facket för dig som arbetar i kommuner, regioner och privata företag inom välfärden.",
         seoText: `# Bli medlem i Kommunal – Sveriges största fackförbund
 
@@ -139,7 +139,7 @@ Kommunal organiserar 500 000 undersköterskor, barnskötare, personliga assisten
         centralOrg: "LO",
         members: "~300 000",
         commonJobs: ["Verkstadsmekaniker", "svetsare", "CNC-operatör", "montör", "truckförare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=If-metall",
+        logoUrl: "/logos/ifmetall.png",
         description: "Fackförbundet för dig inom industrin.",
         seoText: `# Bli medlem i IF Metall – Sveriges största industrifack
 
@@ -162,7 +162,7 @@ IF Metall organiserar 300 000 verkstadsarbetare, svetsare, CNC-operatörer och m
         centralOrg: "SACO",
         members: "~160 000",
         commonJobs: ["Civilingenjör", "högskoleingenjör", "maskiningenjör", "IT-ingenjör", "elingenjör"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Sveriges-ingenjorer",
+        logoUrl: "/logos/aea.png",
         description: "Sveriges största nätverk för ingenjörer.",
         seoText: `# Bli medlem i Sveriges Ingenjörer – Sveriges största ingenjörsfack
 
@@ -185,7 +185,7 @@ Sveriges Ingenjörer organiserar 160 000 civilingenjörer och högskoleingenjör
         centralOrg: "SACO",
         members: "~300 000",
         commonJobs: ["Grundskolelärare", "gymnasielärare", "förskollärare", "fritidspedagog", "studie- och yrkesvägledare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Sveriges-larare",
+        logoUrl: "/logos/slak.png",
         description: "Fackförbundet för alla lärare.",
         seoText: `# Bli medlem i Sveriges Lärare – det nya stora lärarfacket
 
@@ -230,7 +230,7 @@ Vårdförbundet organiserar 100 000 sjuksköterskor, barnmorskor, röntgensjuksk
         centralOrg: "TCO",
         members: "~200 000",
         commonJobs: ["Socialsekreterare", "administratör kommun", "biståndshandläggare", "fritidsledare", "kultursekreterare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Vision",
+        logoUrl: "/logos/vision.png",
         description: "Facket för dig som leder, utvecklar och administrerar välfärden.",
         seoText: `# Bli medlem i Vision – facket för välfärdens tjänstemän
 
@@ -252,7 +252,7 @@ Vision organiserar 200 000 socialsekreterare, biståndshandläggare och administ
         centralOrg: "LO",
         members: "~100 000",
         commonJobs: ["Byggnadsarbetare", "snickare", "betongarbetare", "murare", "VVS-montör"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Byggnads",
+        logoUrl: "/logos/byggnads.png",
         description: "Facket för alla byggnadsarbetare.",
         seoText: `# Bli medlem i Byggnads – Sveriges starkaste byggfack
 
@@ -276,7 +276,7 @@ Byggnads organiserar över 100 000 byggnadsarbetare, snickare, betongarbetare, m
         centralOrg: "LO",
         members: "~150 000",
         commonJobs: ["Butiksanställd", "kassapersonal", "lagerarbetare", "e-handelsplockare", "frisör"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Handels",
+        logoUrl: "/logos/handels.png",
         description: "Facket för anställda i handeln.",
         seoText: `# Bli medlem i Handels – Sveriges största fack för butik, lager och e-handel
 
@@ -299,7 +299,7 @@ Handels organiserar 150 000 anställda i butik, lager, e-handel, frisörer och f
         centralOrg: "LO",
         members: "~50 000",
         commonJobs: ["Installationselektriker", "serviceelektriker", "larmtekniker", "distributionselektriker", "industrielektriker"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Elektrikerna",
+        logoUrl: "/logos/eak.png",
         description: "Fackförbundet för elektriker.",
         seoText: `# Bli medlem i Elektrikerna – Sveriges starkaste elteknikfack
 
@@ -323,7 +323,7 @@ Svenska Elektrikerförbundet organiserar installationselektriker, serviceelektri
         centralOrg: "LO",
         members: "~30 000",
         commonJobs: ["Fastighetsskötare", "städare", "lokalvårdare", "kvartersvärd", "fastighetstekniker"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Fastighets",
+        logoUrl: "/logos/fastighets.png",
         description: "Fackförbundet för fastighetsanställda.",
         seoText: `# Bli medlem i Fastighets – facket för fastighetsskötare och städare
 
@@ -346,7 +346,7 @@ Fastighets organiserar fastighetsskötare, lokalvårdare, kvartersvärdar och dr
         centralOrg: "SACO", // Note: Ledarna is technically often "Part of SACO" or conflicting, prompt says SACO.
         members: "~100 000",
         commonJobs: ["Chef", "VD", "enhetschef", "platschef", "projektledare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Ledarna",
+        logoUrl: "/logos/ledarna.png",
         description: "Sveriges chefsorganisation.",
         seoText: `# Bli medlem i Ledarna – Sveriges enda renodlade chefsförbund
 
@@ -369,7 +369,7 @@ Ledarna organiserar 100 000 chefer på alla nivåer och i alla branscher.
         centralOrg: "TCO",
         members: "~90 000",
         commonJobs: ["Handläggare myndighet", "administratör stat", "IT-specialist stat", "utredare", "universitetsadministratör"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=St",
+        logoUrl: "/logos/sts.png",
         description: "Fackförbundet för dig som jobbar på statens uppdrag.",
         seoText: `# Bli medlem i ST – facket för statligt anställda
 
@@ -391,7 +391,7 @@ ST organiserar 90 000 anställda på myndigheter, universitet och statliga bolag
         centralOrg: "LO",
         members: "~50 000",
         commonJobs: ["Lastbilschaufför", "terminalarbetare", "distributionchaufför", "renhållningsarbetare", "bevakningschaufför"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Transport",
+        logoUrl: "/logos/transport.png",
         description: "Facket för oss i transportbranschen.",
         seoText: `# Bli medlem i Transport – facket för chaufförer och terminalarbetare
 
@@ -414,7 +414,7 @@ Transport organiserar lastbilschaufförer, distribution och renhållning.
         centralOrg: "LO",
         members: "~70 000",
         commonJobs: ["Tågvärd", "lokförare", "spårvakt", "väktare", "kriminalvårdare"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Seko",
+        logoUrl: "/logos/seko.png",
         description: "Facket för Service och Kommunikation.",
         seoText: `# Bli medlem i Seko – facket för transport, post och säkerhet
 
@@ -436,7 +436,7 @@ Seko organiserar tågvärdar, lokförare, väktare och postterminalarbetare.
         centralOrg: "LO",
         members: "~70 000",
         commonJobs: ["Servitör", "kock", "bartender", "diskare", "hotellreceptionist"],
-        logoUrl: "https://placehold.co/400x200/f3f4f6/1f2937/png?text=Hotell-och-restaurangfacket",
+        logoUrl: "/logos/hrak.png",
         description: "Facket för dig som jobbar inom hotell, restaurang och nöje.",
         seoText: `# Bli medlem i HRF – facket för hotell, restaurang och café
 
