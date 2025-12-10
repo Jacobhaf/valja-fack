@@ -450,19 +450,5 @@ Hotell- och restaurangfacket organiserar servitörer, kockar, bartendrar och hot
 
 [Knapp: Gå med i HRF]`
     },
-    {
-        slug: "akademikerforbundet-ssr",
-        name: "Akademikerförbundet SSR",
-        url: "https://akademssr.se",
-        phone: "08-617 44 00",
-        email: "radgivning@akademssr.se",
-        centralOrg: "SACO",
-        members: "~70 000",
-        commonJobs: ["Socionom", "personalvetare (HR)", "beteendevetare", "ekonom", "folkhälsovetare"],
-        logoUrl: "https://akademssr.se/sites/default/files/2023-10/akademssr-logotype-horizontal-png.png",
-        description: "Sveriges ledande samhällsvetenskapliga förbund.",
-        seoText: `# Bli medlem i Akademikerförbundet SSR – Sveriges största fackförbund för socionomer och ekonomer...`
-        // (Truncated for brevity in this thought trace, but I will put full data in the real tool call)
-    }
-// I will add ALL missing unions here.
+];
 
