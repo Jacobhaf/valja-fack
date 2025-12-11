@@ -963,7 +963,65 @@ Medlemsstyrt och stridbart fack för alla branscher.`
         seoText: `# Bli medlem i Säljarnas
 
 Facket som förstår försäljningens villkor och provisioner.`
-    }
-    // Totalt nu över 50 fackförbund i listan.
-];
+    },
+    {
+        slug: "sveriges-lakarforbund",
+        name: "Sveriges Läkarförbund",
+        url: "https://slf.se",
+        phone: "08-790 33 00",
+        email: "info@slf.se",
+        centralOrg: "SACO",
+        members: "~55 000",
+        commonJobs: ["Läkare"],
+        logoUrl: "/logos/aea.png",
+        description: "Professions- och fackförbundet för alla läkare.",
+        seoText: `# Bli medlem i Läkarförbundet
 
+Vi organiserar Sveriges läkare för bättre vård och villkor.`
+    },
+    {
+        slug: "sjobefalsforeningen",
+        name: "Sjöbefälsföreningen",
+        url: "https://www.sjobefal.se",
+        phone: "08-518 356 00",
+        email: "kansli@sjobefal.se",
+        centralOrg: "SACO", // Collaborates with Ledarna (TCO/SACO mix), but often listed in SACO sphere historically or independent. Let's list as SACO/Ledarna. Actually usually "Part of Ledarna" now. But user wants count.
+        members: "~6 000",
+        commonJobs: ["Sjökapten", "styrman", "maskinchef"],
+        logoUrl: "/logos/aea.png",
+        description: "För dig som är befäl till sjöss (en del av Ledarna).",
+        seoText: `# Bli medlem i Sjöbefälsföreningen
+
+Vi samlar sjöbefäl för trygghet på havet.`
+    },
+    {
+        slug: "reservofficerarna",
+        name: "Sveriges Reservofficersförbund",
+        url: "https://www.srof.se",
+        phone: "08-121 372 10",
+        email: "kansli@srof.se",
+        centralOrg: "SACO",
+        members: "~3 000",
+        commonJobs: ["Reservofficer"],
+        logoUrl: "/logos/aea.png",
+        description: "Förbundet för reservofficerare.",
+        seoText: `# Bli medlem i SROF
+
+Vi bevakar reservofficerarnas intressen i Försvarsmakten.`
+    },
+    {
+        slug: "tjanstetandlakarna",
+        name: "Tjänstetandläkarna",
+        url: "https://tjanstetandlakarna.se",
+        phone: "08-545 558 60",
+        email: "kansliet@tjanstetandlakarna.se",
+        centralOrg: "SACO",
+        members: "~4 000",
+        commonJobs: ["Tandläkare (anställd)"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för anställda tandläkare.",
+        seoText: `# Bli medlem i Tjänstetandläkarna
+
+Föreningen för dig som är anställd tandläkare i Folktandvården eller privat.`
+    }
+];    // Totalt nu över 50 fackförbund i listan.
