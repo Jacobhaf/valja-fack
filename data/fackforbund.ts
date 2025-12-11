@@ -693,6 +693,277 @@ För dig som är legitimerad arbetsterapeut.
         seoText: `# Bli medlem i Hamn
 
 Ett medlemsstyrt fackförbund för alla som jobbar i Sveriges hamnar.`
+    },
+    {
+        slug: "forena",
+        name: "Forena",
+        url: "https://www.forena.se",
+        phone: "08-791 17 00",
+        email: "info@forena.se",
+        centralOrg: "TCO",
+        members: "~13 000",
+        commonJobs: ["Försäkringstjänsteman", "försäkringsrådgivare"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för försäkringsbranschen.",
+        seoText: `# Bli medlem i Forena
+
+Forena är facket för alla i försäkringsbranschen. Gå med för specialiserad rådgivning och branschkoll.`
+    },
+    {
+        slug: "tull-kust",
+        name: "Tull-Kust",
+        url: "https://www.tullkust.se",
+        phone: "08-405 05 50",
+        email: "info@tullkust.se",
+        centralOrg: "TCO",
+        members: "~3 000",
+        commonJobs: ["Tulltjänsteman", "kustbevakare"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för anställda inom Tullverket och Kustbevakningen.",
+        seoText: `# Bli medlem i Tull-Kust
+
+Vi organiserar dig som skyddar Sveriges gränser. 100% fokus på tull och kust.`
+    },
+    {
+        slug: "forsvarsforbundet",
+        name: "Försvarsförbundet",
+        url: "https://www.forsvarsforbundet.se",
+        phone: "08-440 83 30",
+        email: "kansli@forsvarsforbundet.se",
+        centralOrg: "TCO",
+        members: "~6 000",
+        commonJobs: ["Civilanställd i försvaret", "förrådsman", "mekaniker FM"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för civila inom försvarsmakten och försvarssektorn.",
+        seoText: `# Bli medlem i Försvarsförbundet
+
+Det enda facket som är specialiserat på civila inom försvaret.`
+    },
+    {
+        slug: "symf",
+        name: "Symf",
+        url: "https://www.symf.se",
+        phone: "08-693 03 30",
+        email: "info@symf.se",
+        centralOrg: "TCO",
+        members: "~2 000",
+        commonJobs: ["Musiker", "sångare", "korist"],
+        logoUrl: "/logos/aea.png",
+        description: "Sveriges Yrkesmusikerförbund.",
+        seoText: `# Bli medlem i Symf
+
+För dig som är professionell musiker eller sångare i orkester och kör.`
+    },
+    {
+        slug: "scen-och-film",
+        name: "Fackförbundet Scen & Film",
+        url: "https://scenochfilm.se",
+        phone: "08-441 13 00",
+        email: "info@scenochfilm.se",
+        centralOrg: "TCO",
+        members: "~13 000",
+        commonJobs: ["Skådespelare", "regissör", "artist", "biografpersonal"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för kultur och media (tidigare Teaterförbundet).",
+        seoText: `# Bli medlem i Scen & Film
+
+Vi organiserar alla yrkesgrupper inom scen, film, tv och bio. Upphovsrätt och gager är våra hjärtefrågor.`
+    },
+    {
+        slug: "sveriges-skolledare",
+        name: "Sveriges Skolledare",
+        url: "https://www.sverigesskolledare.se",
+        phone: "08-567 06 200",
+        email: "kansli@sverigesskolledare.se",
+        centralOrg: "SACO",
+        members: "~17 000",
+        commonJobs: ["Rektor", "förskolechef", "skolledare"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för chefer inom utbildning.",
+        seoText: `# Bli medlem i Sveriges Skolledare
+
+Ett förbund exklusivt för dig som leder svensk skola och utbildning.`
+    },
+    {
+        slug: "sveriges-tandlakarforbund",
+        name: "Sveriges Tandläkarförbund",
+        url: "https://tandlakarforbundet.se",
+        phone: "08-666 15 00",
+        email: "kansli@tandlakarforbundet.se",
+        centralOrg: "SACO",
+        members: "~7 000",
+        commonJobs: ["Tandläkare"],
+        logoUrl: "/logos/aea.png",
+        description: "Professionsförbundet för tandläkare.",
+        seoText: `# Bli medlem
+
+Samlar Sveriges tandläkare för yrkesfrågor och villkor.`
+    },
+    {
+        slug: "sveriges-psykologforbund",
+        name: "Sveriges Psykologförbund",
+        url: "https://www.psykologforbundet.se",
+        phone: "08-567 06 400",
+        email: "medlemsservice@psykologforbundet.se",
+        centralOrg: "SACO",
+        members: "~13 000",
+        commonJobs: ["Psykolog"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för legitimerade psykologer.",
+        seoText: `# Bli medlem
+
+Vi driver psykologernas frågor i vården och samhället.`
+    },
+    {
+        slug: "sveriges-veterinarforbund",
+        name: "Sveriges Veterinärförbund",
+        url: "https://www.svf.se",
+        phone: "08-545 558 20",
+        email: "kansli@svf.se",
+        centralOrg: "SACO",
+        members: "~3 500",
+        commonJobs: ["Veterinär"],
+        logoUrl: "/logos/aea.png",
+        description: "Fack- och yrkesförbund för veterinärer.",
+        seoText: `# Bli medlem
+
+Veterinärernas egna förbund.`
+    },
+    {
+        slug: "srat",
+        name: "SRAT",
+        url: "https://www.srat.se",
+        phone: "08-442 44 60",
+        email: "kansli@srat.se",
+        centralOrg: "SACO",
+        members: "~15 000",
+        commonJobs: ["Audionom", "tulltjänsteman (akademiker)", "flygledare", "lots", "diplomat"],
+        logoUrl: "/logos/aea.png",
+        description: "Fackförbundet för akademiker inom hälsa, kommunikation och förvaltning.",
+        seoText: `# Bli medlem i SRAT
+
+Ett förbund för 22 olika akademikeryrken, från flygledare till audionomer.`
+    },
+    {
+        slug: "kyrkans-akademikerforbund",
+        name: "Kyrkans Akademikerförbund",
+        url: "https://www.kyrka.se",
+        phone: "08-441 85 60",
+        email: "info@kyrka.se",
+        centralOrg: "SACO",
+        members: "~5 000",
+        commonJobs: ["Präst", "diakon", "kyrkomusiker (akademisk)"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för akademiker i Svenska kyrkan.",
+        seoText: `# Bli medlem
+
+Vi organiserar präster, diakoner och akademikerna i kyrkan.`
+    },
+    {
+        slug: "sulf",
+        name: "SULF",
+        url: "https://www.sulf.se",
+        phone: "08-505 836 00",
+        email: "kansli@sulf.se",
+        centralOrg: "SACO",
+        members: "~22 000",
+        commonJobs: ["Universitetslärare", "forskare", "doktorand"],
+        logoUrl: "/logos/aea.png",
+        description: "Sveriges universitetslärare och forskare.",
+        seoText: `# Bli medlem i SULF
+
+För dig som arbetar med forskning och högre utbildning.`
+    },
+    {
+        slug: "officersforbundet",
+        name: "Officersförbundet",
+        url: "https://www.officersforbundet.se",
+        phone: "08-440 83 30",
+        email: "kansli@officersforbundet.se",
+        centralOrg: "SACO",
+        members: "~14 000",
+        commonJobs: ["Officer", "soldat (yrkes)"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för yrkesofficerare och soldater.",
+        seoText: `# Bli medlem
+
+Vi organiserar den militära personalen i Försvarsmakten.`
+    },
+    {
+        slug: "musikerforbundet",
+        name: "Musikerförbundet",
+        url: "https://www.musikerforbundet.se",
+        phone: "08-587 060 00",
+        email: "info@musikerforbundet.se",
+        centralOrg: "LO",
+        members: "~3 000",
+        commonJobs: ["Musiker", "artist", "ljudtekniker"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för professionella musiker och artister.",
+        seoText: `# Bli medlem i Musikerförbundet
+
+Vi organiserar frilansande och anställda musiker i Sverige.`
+    },
+    {
+        slug: "malarna",
+        name: "Målarna",
+        url: "https://www.malareforbundet.se",
+        phone: "010-400 77 00",
+        email: "post@malareforbundet.se",
+        centralOrg: "LO",
+        members: "~13 000",
+        commonJobs: ["Målare", "lackeare"],
+        logoUrl: "/logos/aea.png",
+        description: "Sveriges äldsta fackförbund (nu i samarbete med Byggnads).",
+        seoText: `# Bli medlem i Målarna
+
+Facket för dig som ger färg åt Sverige.`
+    },
+    {
+        slug: "brandmannens-riksforbund",
+        name: "Brandmännens Riksförbund",
+        url: "https://brandfacket.se",
+        phone: "08-720 78 80",
+        email: "info@brandfacket.se",
+        centralOrg: "Fristående",
+        members: "~8 000",
+        commonJobs: ["Deltidsbrandman", "brandman"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för Sveriges hältdis- och deltidsbrandmän.",
+        seoText: `# Bli medlem i BRF
+
+Vi fokuserar helt på räddningstjänstens villkor.`
+    },
+    {
+        slug: "sac",
+        name: "SAC Syndikalisterna",
+        url: "https://www.sac.se",
+        phone: "08-522 456 30",
+        email: "info@sac.se",
+        centralOrg: "Fristående",
+        members: "~3 000",
+        commonJobs: ["Alla yrken"],
+        logoUrl: "/logos/aea.png",
+        description: "En fri kämpande fackförening för alla arbetare.",
+        seoText: `# Bli medlem i SAC
+
+Medlemsstyrt och stridbart fack för alla branscher.`
+    },
+    {
+        slug: "saljarnas",
+        name: "Säljarnas Riksförbund",
+        url: "https://www.saljarnas.se",
+        phone: "08-617 02 00",
+        email: "info@saljarnas.se",
+        centralOrg: "Fristående",
+        members: "~4 000",
+        commonJobs: ["Säljare", "account manager", "key account manager", "marknadsförare"],
+        logoUrl: "/logos/saljarnas.png",
+        description: "Förbundet för säljare och marknadsförare.",
+        seoText: `# Bli medlem i Säljarnas
+
+Facket som förstår försäljningens villkor och provisioner.`
     }
+    // Totalt nu över 50 fackförbund i listan.
 ];
 
