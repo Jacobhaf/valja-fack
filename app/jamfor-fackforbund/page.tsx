@@ -18,16 +18,16 @@ function CompareList() {
         <>
             {/* Filters */}
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
-                <Link href="/jamfor-fackforbund" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${!category ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
+                <Link href="/jamfor-fackforbund" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${!category ? 'bg-[var(--color-brand)] text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
                     Alla
                 </Link>
-                <Link href="/jamfor-fackforbund?cat=LO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'LO' ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
+                <Link href="/jamfor-fackforbund?cat=LO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'LO' ? 'bg-[var(--color-brand)] text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
                     LO
                 </Link>
-                <Link href="/jamfor-fackforbund?cat=TCO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'TCO' ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
+                <Link href="/jamfor-fackforbund?cat=TCO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'TCO' ? 'bg-[var(--color-brand)] text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
                     TCO
                 </Link>
-                <Link href="/jamfor-fackforbund?cat=SACO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'SACO' ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
+                <Link href="/jamfor-fackforbund?cat=SACO" scroll={false} className={`px-4 py-2 rounded-full text-sm font-medium ${category === 'SACO' ? 'bg-[var(--color-brand)] text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}>
                     SACO
                 </Link>
             </div>
@@ -38,7 +38,7 @@ function CompareList() {
 
             <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
                 {filteredUnions.map((union) => (
-                    <article key={union.slug} className="flex flex-col items-start justify-between bg-white rounded-2xl p-6 shadow-sm ring-1 ring-gray-200 hover:ring-blue-500 transition-all">
+                    <article key={union.slug} className="flex flex-col items-start justify-between bg-white rounded-2xl p-6 shadow-sm ring-1 ring-gray-200 hover:ring-[var(--color-brand)] transition-all">
                         <div className="flex items-center gap-x-4 text-xs w-full mb-4">
                             <span className={`px-2 py-1 rounded-md font-medium ${union.centralOrg === 'LO' ? 'bg-red-50 text-red-700' :
                                 union.centralOrg === 'TCO' ? 'bg-blue-50 text-blue-700' :
@@ -69,7 +69,7 @@ function CompareList() {
                             </div>
                         </div>
                         <div className="mt-8 w-full">
-                            <Link href={`/fackforbund/${union.slug}`} className="block w-full text-center rounded-md bg-white border border-blue-600 px-3.5 py-2.5 text-sm font-semibold text-blue-600 shadow-sm hover:bg-blue-50">
+                            <Link href={`/fackforbund/${union.slug}`} className="block w-full text-center rounded-md bg-white border border-[var(--color-brand)] px-3.5 py-2.5 text-sm font-semibold text-[var(--color-brand)] shadow-sm hover:bg-blue-50">
                                 Läs mer
                             </Link>
                         </div>

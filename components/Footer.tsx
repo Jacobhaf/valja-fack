@@ -7,8 +7,8 @@ export default function Footer() {
             <div className="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
                 <div className="xl:grid xl:grid-cols-3 xl:gap-8">
                     <div className="space-y-8">
-                        <Link href="/" className="text-2xl font-bold text-white tracking-tight">
-                            Välja<span className="text-blue-500">Fack</span>.se
+                        <Link href="/" className="inline-block">
+                            <img src="/logo-brand.png" alt="Välja Fack" className="h-12 w-auto object-contain rounded-md" />
                         </Link>
                         <p className="text-sm leading-6 text-gray-300">
                             Vi hjälper dig att hitta rätt bland Sveriges fackförbund. Jämför villkor, priser och förmåner för att göra ett tryggt val för din karriär.

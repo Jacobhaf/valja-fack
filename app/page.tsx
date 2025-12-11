@@ -20,7 +20,7 @@ export default function Home() {
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
                 href="/jamfor-fackforbund"
-                className="rounded-md bg-blue-600 px-6 py-3.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+                className="rounded-md bg-[var(--color-brand)] px-6 py-3.5 text-sm font-semibold text-white shadow-sm hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--color-brand)]"
               >
                 Jämför fackförbund
               </Link>
@@ -56,7 +56,7 @@ export default function Home() {
                          Actually, standard html img is reliable for unknown domains. */}
                   <img src={union.logoUrl} alt={`${union.name} logotyp`} className="h-full w-auto object-contain" />
                 </div>
-                <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-blue-600">
+                <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-[var(--color-brand)]">
                   <Link href={`/fackforbund/${union.slug}`}>
                     <span className="absolute inset-0" />
                     {union.name}
@@ -73,7 +73,7 @@ export default function Home() {
           ))}
         </div>
         <div className="mt-12 text-center">
-          <Link href="/jamfor-fackforbund" className="text-blue-600 hover:text-blue-500 font-semibold">
+          <Link href="/jamfor-fackforbund" className="text-[var(--color-brand)] hover:opacity-80 font-semibold">
             Visa alla fackförbund &rarr;
           </Link>
         </div>
@@ -116,12 +116,12 @@ export default function Home() {
             <div className="bg-gray-50 p-6 rounded-xl">
               <h3 className="font-bold text-gray-900 mb-2">Vilket fack är bäst?</h3>
               <p className="text-gray-600 mb-4">Det finns inget universellt svar. Det bästa facket är det som har kollektivavtal på din arbetsplats.</p>
-              <Link href="/faq-fackforbund" className="text-blue-600 font-medium hover:underline">Läs hela svaret &rarr;</Link>
+              <Link href="/faq-fackforbund" className="text-[var(--color-brand)] font-medium hover:underline">Läs hela svaret &rarr;</Link>
             </div>
             <div className="bg-gray-50 p-6 rounded-xl">
               <h3 className="font-bold text-gray-900 mb-2">Måste man vara med i a-kassan?</h3>
               <p className="text-gray-600 mb-4">Nej, men det rekommenderas starkt. Fackmedlemskap ger ofta extra inkomstförsäkring ovanpå a-kassan.</p>
-              <Link href="/faq-fackforbund" className="text-blue-600 font-medium hover:underline">Läs hela svaret &rarr;</Link>
+              <Link href="/faq-fackforbund" className="text-[var(--color-brand)] font-medium hover:underline">Läs hela svaret &rarr;</Link>
             </div>
           </div>
         </div>
