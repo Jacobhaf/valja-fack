@@ -450,5 +450,249 @@ Hotell- och restaurangfacket organiserar servitörer, kockar, bartendrar och hot
 
 [Knapp: Gå med i HRF]`
     },
+    {
+        slug: "pappers",
+        name: "Pappers",
+        url: "https://www.pappers.se",
+        phone: "08-796 61 00",
+        email: "info@pappers.se",
+        centralOrg: "LO",
+        members: "~13 000",
+        commonJobs: ["Massa- och pappersarbetare", "processoperatör"],
+        logoUrl: "/logos/pappers.png",
+        description: "Vi organiserar arbetare inom massa- och pappersindustrin.",
+        seoText: `# Bli medlem i Pappers
+        
+Pappers är fackförbundet för dig som jobbar inom massa- och pappersindustrin. Vi arbetar för säkra arbetsplatser och bra löner.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Starkt kollektivavtal`
+    },
+    {
+        slug: "gs-facket",
+        name: "GS Facket",
+        url: "https://www.gsfacket.se",
+        phone: "010-470 83 00",
+        email: "info@gsfacket.se",
+        centralOrg: "LO",
+        members: "~50 000",
+        commonJobs: ["Skogsarbetare", "träarbetare", "grafisk personal"],
+        logoUrl: "/logos/gs.png",
+        description: "Facket för anställda inom skog, trä och grafisk bransch.",
+        seoText: `# Bli medlem i GS Facket
+
+GS organiserar dig som jobbar inom skogsbruk, träindustri och grafisk produktion.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ GS a-kassa`
+    },
+    {
+        slug: "livs",
+        name: "Livsmedelsarbetareförbundet",
+        url: "https://www.livs.se",
+        phone: "08-796 29 00",
+        email: "info@livs.se",
+        centralOrg: "LO",
+        members: "~30 000",
+        commonJobs: ["Livsmedelsarbetare", "slaktare", "bagare", "bryggeriarbetare"],
+        logoUrl: "/logos/livs.png",
+        description: "Vi sätter maten på bordet.",
+        seoText: `# Bli medlem i Livs
+
+Livs organiserar dig som tillverkar mat och dryck. Bli medlem för en tryggare anställning.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Livs a-kassa`
+    },
+    {
+        slug: "journalistforbundet",
+        name: "Journalistförbundet",
+        url: "https://www.sjf.se",
+        phone: "08-613 75 00",
+        email: "sjf@sjf.se",
+        centralOrg: "TCO",
+        members: "~15 000",
+        commonJobs: ["Journalist", "fotograf", "redigerare", "freelance"],
+        logoUrl: "/logos/journalist.png",
+        description: "Facket för det fria ordet.",
+        seoText: `# Bli medlem i Journalistförbundet
+
+Vi organiserar journalister och fotografer i Sverige. Vi kämpar för upphovsrätt och pressetik.
+
+### Fördelar
+✅ Presskort
+✅ Inkomstförsäkring
+✅ Juridisk hjälp`
+    },
+    {
+        slug: "polisforbundet",
+        name: "Polisförbundet",
+        url: "https://www.polisforbundet.se",
+        phone: "08-613 24 00",
+        email: "kansli@polisforbundet.se",
+        centralOrg: "TCO",
+        members: "~20 000",
+        commonJobs: ["Polis"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för Sveriges poliser.",
+        seoText: `# Bli medlem i Polisförbundet
+
+Vi organiserar de flesta av Sveriges poliser. Vi arbetar för bättre villkor och säkrare arbetsmiljö.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Polisspecifik rådgivning`
+    },
+    {
+        slug: "finansforbundet",
+        name: "Finansförbundet",
+        url: "https://www.finansforbundet.se",
+        phone: "08-614 03 00",
+        email: "medlem@finansforbundet.se",
+        centralOrg: "TCO",
+        members: "~30 000",
+        commonJobs: ["Banktjänsteman", "rådgivare", "IT inom finans"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för dig i finansbranschen.",
+        seoText: `# Bli medlem i Finansförbundet
+
+Sveriges största fackförbund inom bank och finans.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Karriärstöd`
+    },
+    {
+        slug: "naturvetarna",
+        name: "Naturvetarna",
+        url: "https://www.naturvetarna.se",
+        phone: "08-466 24 80",
+        email: "info@naturvetarna.se",
+        centralOrg: "SACO",
+        members: "~35 000",
+        commonJobs: ["Biolog", "kemist", "miljövetare", "geolog"],
+        logoUrl: "/logos/aea.png",
+        description: "Fackförbundet för naturvetare.",
+        seoText: `# Bli medlem i Naturvetarna
+
+För dig med en naturvetenskaplig utbildning. Vi kan din arbetsmarknad.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Lönestatistik`
+    },
+    {
+        slug: "dik",
+        name: "DIK",
+        url: "https://dik.se",
+        phone: "08-480 040 00",
+        email: "info@dik.se",
+        centralOrg: "SACO",
+        members: "~20 000",
+        commonJobs: ["Bibliotekarie", "kommunikatör", "museianställd", "tolk"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för kultur, kommunikation och kreativ sektor.",
+        seoText: `# Bli medlem i DIK
+
+DIK organiserar akademiker inom kultur och kommunikation.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Upphovsrättsrådgivning`
+    },
+    {
+        slug: "sveriges-arkitekter",
+        name: "Sveriges Arkitekter",
+        url: "https://www.arkitekt.se",
+        phone: "08-505 577 00",
+        email: "kansli@arkitekt.se",
+        centralOrg: "SACO",
+        members: "~14 000",
+        commonJobs: ["Arkitekt", "inredningsarkitekt", "landskapsarkitekt", "planeringsarkitekt"],
+        logoUrl: "/logos/aea.png",
+        description: "Yrkes- och fackförbundet för alla arkitekter.",
+        seoText: `# Bli medlem i Sveriges Arkitekter
+
+Vi företräder 90% av Sveriges arkitekter.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Arkitektspecifik rådgivning`
+    },
+    {
+        slug: "sveriges-farmaceuter",
+        name: "Sveriges Farmaceuter",
+        url: "https://www.sverigesfarmaceuter.se",
+        phone: "08-507 999 00",
+        email: "post@sverigesfarmaceuter.se",
+        centralOrg: "SACO",
+        members: "~7 000",
+        commonJobs: ["Apotekare", "receptarie"],
+        logoUrl: "/logos/aea.png",
+        description: "Professionsförbundet för farmaceuter.",
+        seoText: `# Bli medlem
+
+Enda facket exklusivt för apotekare och receptarier.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Professionsstöd`
+    },
+    {
+        slug: "fysioterapeuterna",
+        name: "Fysioterapeuterna",
+        url: "https://www.fysioterapeuterna.se",
+        phone: "08-567 06 100",
+        email: "kansli@fysioterapeuterna.se",
+        centralOrg: "SACO",
+        members: "~13 000",
+        commonJobs: ["Fysioterapeut", "sjukgymnast"],
+        logoUrl: "/logos/aea.png",
+        description: "Facket för fysioterapeuter.",
+        seoText: `# Bli medlem
+
+Vi arbetar för fysioterapeuters villkor och profession.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Patientförsäkring`
+    },
+    {
+        slug: "sveriges-arbetsterapeuter",
+        name: "Sveriges Arbetsterapeuter",
+        url: "https://www.arbetsterapeuterna.se",
+        phone: "08-507 488 00",
+        email: "kansli@arbetsterapeuterna.se",
+        centralOrg: "SACO",
+        members: "~10 000",
+        commonJobs: ["Arbetsterapeut"],
+        logoUrl: "/logos/aea.png",
+        description: "Vi driver arbetsterapeutiska frågor.",
+        seoText: `# Bli medlem
+
+För dig som är legitimerad arbetsterapeut.
+
+### Fördelar
+✅ Inkomstförsäkring
+✅ Yrkesrådgivning`
+    },
+    {
+        slug: "svenska-hamnarbetarforbundet",
+        name: "Svenska Hamnarbetarförbundet",
+        url: "https://hamn.nu",
+        phone: "08-667 32 50",
+        email: "kansli@hamn.nu",
+        centralOrg: "Fristående",
+        members: "~2 000",
+        commonJobs: ["Hamnarbetare"],
+        logoUrl: "/logos/hamn.png",
+        description: "Ett fristående fack för hamnarbetare.",
+        seoText: `# Bli medlem i Hamn
+
+Ett medlemsstyrt fackförbund för alla som jobbar i Sveriges hamnar.`
+    }
 ];
 
